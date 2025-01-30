@@ -1,4 +1,4 @@
-# Hi, I'm Aldi 👋
+# Hello, I'm Aldi 👋
 
 I am an **Electrical and Automation Engineer** working in the manufacturing industry, with a strong passion for technology and innovation. Alongside my full-time role, I work as a **Freelancer**, delivering high-quality projects that provide seamless, end-to-end solutions tailored to meet diverse client needs. 
 
@@ -12,19 +12,13 @@ My passion for technology and innovation drives me to continuously explore new t
 
 I have over **2 years of experience learning and exploring AI/ML**, and I am deeply passionate about diving deeper into this field. My goal is to combine my expertise in **automation, IoT, and AI/ML** to build intelligent, data-driven systems that solve real-world problems.
 
----
 
-
----
-
-## 🌟 **Explore the Journey Together**
+## 🌟 **Explore the Journey Together** ##
 
 Join me on this exciting path — let's connect and create something great!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/ahmad-reinaldi-akbar/))
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/your-github-profile](https://github.com/reinaldi09/)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-reinaldi-akbar/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reinaldi09/)
 
 ## 🛠️ **Technologies & Tools**
 ### **Programming Languages**
@@ -52,16 +46,7 @@ Join me on this exciting path — let's connect and create something great!
 ---
 
 ## 📊 **GitHub Stats**
-![Aldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-### **Total Stars Earned**
-![Total Stars](https://img.shields.io/badge/Total_Stars-1-yellow?style=for-the-badge)
-
-### **Total Commits (2024)**
-![Total Commits](https://img.shields.io/badge/Total_Commits-2025-blue?style=for-the-badge)
-
-### **Contributed to (last year)**
-![Contributed to](https://img.shields.io/badge/Contributed_to-1-green?style=for-the-badge)
+![Aldi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinaldi09&show_icons=true&theme=radical)
 
 ### **Most Used Languages**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reinaldi09&layout=compact&theme=radical)
